@@ -1,0 +1,18 @@
+WEAPONS:
+CS Knife - Vibroblade
+Pump Shotgun - Trandoshan ACP Scatter Gun
+Chrome Shotgun - Republic ACP Scatter Gun
+UZI - Trandoshan SMG
+Silenced SMG - DC-15S Blaster Carbine
+AWP - Cycler Rifle
+Hunting Rifle - DC-17m Sniper Attachment
+Military Sniper - DL19X
+Pistol - DC-15S Side Arm Blaster
+SG 502 - A280
+
+
+CAMPAIGNS:
+
+Parish Campaign Finale Vehicle - Lambda Class Shuttle
+Other Finale Helicopters - LAAT
+
